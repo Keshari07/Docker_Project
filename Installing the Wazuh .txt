@@ -1,0 +1,41 @@
+   
+                                                    installation Wazuh 
+                                  
+   
+ 1>>>  https://documentation.wazuh.com/current/installation-guide/wazuh-server/step-by-step.html
+
+ 2>>>  https://documentation.wazuh.com/current/installation-guide/wazuh-server/index.html
+
+ 3>>> https://documentation.wazuh.com/current/installation-guide/wazuh-indexer/index.html
+ 
+ 4>>> https://documentation.wazuh.com/current/installation-guide/wazuh-server/installation-assistant.html
+ 
+ 5>>> https://documentation.wazuh.com/current/installation-guide/wazuh-dashboard/index.html
+ 
+ 6>> https://documentation.wazuh.com/current/installation-guide/wazuh-agent/index.html
+ 
+ 7>>> https://documentation.wazuh.com/current/installation-guide/packages-list.html
+ 
+ 8>>> https://documentation.wazuh.com/current/deployment-options/index.html
+ 
+ 9>>> https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-linux.html
+ 
+ 10 >>> https://stackoverflow.com/questions/65482287/installing-wazuh-server-in-windows-server
+ 
+ 11>>> https://documentation.wazuh.com/current/deployment-options/deploying-with-ansible/guide/install-wazuh-agent.html
+ 
+ 12 >> https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-windows.html
+ 
+ 13 >>https://wazuh.com/install/
+ 
+ 14>>>> https://www.songer.pro/install-and-configure-wazuh-agent-windows/
+ 
+ 15 >>> 
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ 
+ 
+ https://socfortress.medium.com/part-4-wazuh-agent-install-endpoint-monitoring-f24f6a0464ac
+ 
+ 
+ 
